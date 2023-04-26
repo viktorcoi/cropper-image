@@ -8,7 +8,7 @@ With this plugin, you can crop and select the desired area of any image, then sa
 Online example: https://viktorcoi.github.io/cropper-image/
 ## Screenshots
 <table width="100" align="center">
-    <td align="center">
+    <td width="33%" align="center">
         <img src="./screenshot_0.jpg" width="48" height="48" alt="css3"/>
         <br>1
     </td>
