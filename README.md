@@ -8,7 +8,7 @@ With this plugin, you can crop and select the desired area of any image, then sa
 ## Screenshots
 <table align="center">
     <td height="92" width="92" align="center">
-        <img src="./screenshot_0" width="48" height="48" alt="css3"/>
+        <img src="./screenshot_0.jpg" width="48" height="48" alt="css3"/>
         <br>Css3
     </td>
     <td height="92" width="92" align="center">
