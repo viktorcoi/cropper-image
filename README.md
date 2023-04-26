@@ -9,15 +9,15 @@ Online example: https://viktorcoi.github.io/cropper-image/
 ## Screenshots
 <table width="100" align="center">
     <td width="33%" align="center">
-        <img src="./screenshot_0.jpg" width="48" height="48" alt="css3"/>
+        <img src="./screenshot_0.png" width="48" height="48" alt="css3"/>
         <br>1
     </td>
     <td align="center">
-        <img src="./screenshot_1.jpg" width="48" height="48" alt="sass">
+        <img src="./screenshot_1.png" width="48" height="48" alt="sass">
         <br>2
     </td>
     <td align="center">
-        <img src="./screenshot_2.jpg" width="48" height="48" alt="scss">
+        <img src="./screenshot_2.png" width="48" height="48" alt="scss">
         <br>3
     </td>
 </table>
