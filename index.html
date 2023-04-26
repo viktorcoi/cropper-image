@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>radioButton</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/variables.css">
+    <link rel="stylesheet" href="./css/components.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="./js/uploadImage.js"></script>
+    <script src="./js/cropper.js"></script>
+    <link  href="./css/cropper.css" rel="stylesheet">
+    <script src="./js/jquery-cropper.js"></script>
+</head>
+
+<body>
+
+    <button class="upload-image">ЗАГРУЗИТЬ КАРТИНКУ</button>
+
+    <div class="primer-images">
+        <img class="image-full" src="" alt="full">
+        <img class="image-mini" src="" alt="crop 96px square">
+        <img class="image-mini" src="" alt="crop 60px circle">
+    </div>
+
+    <div class="popup-image-upload">
+        <div class="popup-image-upload__bg-popup">
+            <div class="popup-image-upload__popup">
+                <div class="popup-image-upload__cross"></div>
+                <div>
+                    <div class="popup-image-upload__popup-plug"></div>
+                    <div class="popup-image-upload__popup-for-image">
+                        <img id="preview-image" src="">
+                    </div>
+                </div>
+                <h2>Загрузить изображение</h2>
+                <p>(jpg, png, gif максимум: 5 mb)</p>
+                <div class="popup-image-upload__popup-buttons">
+                    
+                    <button class="popup-image-upload__popup-buttons--upload">
+                        <input id="file-input" type="file" accept=".jpg,.jpeg,.png,.gif" title="">
+                        <span>Загрузить</span>
+                    </button>
+                    <button class="popup-image-upload__popup-buttons--save">
+                        Сохранить
+                        <span class="popup-image-upload__popup-buttons--save-load"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
