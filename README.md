@@ -5,7 +5,7 @@ With this plugin, you can crop and select the desired area of any image, then sa
 - jQuery functionality;
 - Styled scss preprocessor;
 - BEM methodology was used for layout;
-
+<br/>
 Online example: https://viktorcoi.github.io/cropper-image/
 ## Screenshots
 <table width="100" align="center">
